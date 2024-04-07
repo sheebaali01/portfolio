@@ -146,7 +146,7 @@ export const experience: ExperienceType[] = [
   {
     role: "Software Engineer Teacher",
     company: "Aptech Learning ",
-    companyLogo: "/img/icons/common/aptech.png",
+    companyLogo: "/img/icons/common/aptech.PNG",
     date: "April 2021 - Oct 2021",
     desc: `Deliver comprehensive and engaging lectures on HTML, CSS, JavaScript, jQuery, Bootstrap, C++, Python, R language, and Microsoft Office. Design and develop curriculum materials, including lesson plans, assignments, and projects, to meet the educational objectives of the
     courses. Conduct hands-on workshops and coding exercises to reinforce theoretical concepts and enhance practical skills. Provide personalized guidance and support to students, assisting them with their projects and assignments. Foster a collaborative and supportive learning environment conducive to student success. Stay updated on the latest developments and trends in software engineering and incorporate relevant advancements into the curriculum.`,
@@ -154,7 +154,7 @@ export const experience: ExperienceType[] = [
   {
     role: "Junior Web Developer",
     company: "Adot Worldwide Ltd ",
-    companyLogo: "/img/icons/common/adot.png",
+    companyLogo: "/img/icons/common/adot.PNG",
     date: "Sept 2020 - March 2021",
     desc: `Create html/css/javascript front end from wireframes or Photoshop compositions. Write code to achieve project specifications for new system functionality. Investigating and resolving issues and bugs.`,
   },
